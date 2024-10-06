@@ -1,1 +1,10 @@
 .git
+node_modules
+.next
+.vercel
+.env*
+*.log
+README.md
+.gitignore
+.gitattributes
+*.mp4
